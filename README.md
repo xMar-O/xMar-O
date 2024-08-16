@@ -9,7 +9,7 @@
 - 👨🏽‍💻  I’m currently working on `BeSohoula`.
 - 🌱  I’m currently learning JavaScript/Php. 
 - 💬  Ask me about anything.
-- 📫  How to reach me: xMarO#2004
+- 📫  How to reach me: @hurlexmaro
 
 ***
 
