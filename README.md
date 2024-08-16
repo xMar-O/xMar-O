@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="#">xMarO</a></h2>
+<h2 align="center">Hey <img src="https://guns.lol/freakymaro" width="25px"> , I'm <a href="#">FreakyMar0</a></h2>
 <p align="center">
   <a href="https://www.npmjs.com/~aymanmaro">NPM</a> •
   <a href="https://discord.gg/tdc">Discord</a>
@@ -6,7 +6,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on `TayBot`.
+- 👨🏽‍💻  I’m currently working on `BeSohoula`.
 - 🌱  I’m currently learning JavaScript/Php. 
 - 💬  Ask me about anything.
 - 📫  How to reach me: xMarO#2004
