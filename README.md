@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://guns.lol/freakymaro" width="25px"> , I'm <a href="#">FreakyMar0</a></h2>
+<h2 align="center">Hey <a src="https://guns.lol/freakymaro" width="25px"> , I'm <a href="#">FreakyMar0</a></h2>
 <p align="center">
   <a href="https://www.npmjs.com/~aymanmaro">NPM</a> •
   <a href="https://discord.gg/tdc">Discord</a>
@@ -22,8 +22,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMarO&layout=compact&theme=dark" alt="top-langs" />
 </p>
-
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <br>
 
